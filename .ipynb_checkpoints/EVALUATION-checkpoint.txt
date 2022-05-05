@@ -1,0 +1,25 @@
+Evaluation sur le dataset : Restaurants_Train.xml
+
+precision :  0.5326421966937518
+rappel :  0.5277623542476402
+Resultat final :  0.5301910472737414
+
+Evaluation sur le dataset : Restaurants_Test_Gold.xml
+precision :  0.6979166666666666
+rappel :  0.6979166666666666
+Resultat final :  0.6979166666666666
+
+Evaluation sur le dataset : Laptop_Train.xml
+precision :  0.4897959183673469
+rappel :  0.4897959183673469
+Resultat final :  0.4897959183673469
+
+
+Evaluation sur le dataset : Laptop_Test_Gold.xml
+precision :  0.48610498456109397
+rappel :  0.4764375270211846
+Resultat final :  0.4812227074235808
+
+
+Les résultats sont assez variés en fonction du datasat, mais on arrive a avoir un resultat proche de 70% pour le dataset Restaurants8test_Gold.
+Ce genre de resultat n'est pas surprenant car il n'est pas évident d'identifier les bons mots clés qui vont permettre d'analyser le sentiment d'un aspect terms.
